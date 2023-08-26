@@ -1,0 +1,23 @@
+username - mauli
+password - mauliccd
+
+requirmants -
+for IDE - 
+pip install dash dash-html-components dash-core-components pandas numpy dash-bootstrap-components
+
+for hosting console -
+pip install dash
+pip install dash-bootstrap-components
+pip install pandas
+
+run command - python app.py
+
+free hosting site - 
+https://www.pythonanywhere.com/
+
+Redmi file -
+dash==1.21.0
+dash-bootstrap-components==1.0.0
+pandas==1.3.3
+
+
